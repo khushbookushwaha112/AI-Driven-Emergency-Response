@@ -1,0 +1,12 @@
+Crime_Type,Priority,Radius_km,Response_Units,Action,Keywords
+Terrorist Threat,Critical,30,"Anti-Terror Squad, All PCRs, Army Liaison",City Lockdown & Jammer Activation,"terrorist, threat, bomb, attack"
+Armed Robbery,Critical,10,"Nearest 5 PCRs, SWAT, Checkpoints",Perimeter Cordon & CCTV Face Match,"robbery, loot, dacoity, armed"
+Kidnapping/Abduction,Critical,20,"Toll Plazas, ISBT, PCR Vans, Crime Branch",Vehicle Tracking & Exit Point Sealing,"kidnapping, abduction, gayab"
+Missing Child,High,15,"Local Beat, Railway Police, Public Display",Broadcast to Bus Depots & Local Markets,"missing, child, kid, lost"
+Serious Road Accident,High,5,"Ambulance, Traffic Police, Local PCR",Green Corridor for Medical Help,"accident, takkar, crash, gadi"
+Murder/Homicide,High,8,"Forensic Team, Local SHO, Investigation Dept",Crime Scene Preservation & Suspect Tracking,"murder, khoon, homicide, lash"
+Chain Snatching,Medium,4,"Bike Squad, Beat Constables",Naka Bandi at Intersections,"chain snatching, theft, chori"
+Cyber Fraud,Medium,0,"Cyber Cell, Bank Nodal Officers",Account Freeze & Transaction Reversal,"cyber, fraud, online, scam, bank"
+Vehicle Theft,Medium,12,"Traffic Police, Toll Plazas",Automatic Number Plate Recognition (ANPR) Alert,"car theft, bike theft, vehicle, chori"
+Public Nuisance,Low,2,Local Patrol Car,On-spot Warning/Dispersal,"nuisance, hungama, shor, public"
+Illegal Construction,Low,0,Municipal Liaison,Report to Local Authorities,"illegal construction, tod fod, makan"

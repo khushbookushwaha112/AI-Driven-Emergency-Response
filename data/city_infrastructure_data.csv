@@ -1,0 +1,13 @@
+Point_ID,Name,Type,Lat,Lon,Contact
+TOLL-01,DND Toll Plaza,Toll,28.5833,77.2833,manager@dndtoll.com
+TOLL-02,Gurgaon Border Toll,Toll,28.49,77.1,admin@ggntoll.in
+TOLL-03,Apsara Border,Toll,28.67,77.33,border@up-delhi.com
+HUB-01,Anand Vihar ISBT,Bus Stand,28.6467,77.3161,isbt.anand@delhi.gov
+HUB-02,New Delhi Railway Station,Railway,28.6419,77.2191,ndls@irctc.co.in
+HUB-03,Indira Gandhi Airport (T3),Airport,28.5562,77.1,security@igia.com
+METRO-01,Rajiv Chowk Metro,Metro,28.6328,77.2197,control@dmrc.com
+METRO-02,Kashmere Gate,Metro,28.6675,77.2282,kgate@dmrc.com
+HOSP-01,AIIMS Delhi,Hospital,28.5672,77.21,emergency@aiims.edu
+HOSP-02,Safdarjung Hospital,Hospital,28.5683,77.2075,icu@vmmc-sjh.nic.in
+HOSP-03,Max Hospital Saket,Hospital,28.5275,77.2117,er@maxhealthcare.com
+HOSP-04,Fortis Shalimar Bagh,Hospital,28.71,77.16,support@fortis.in
